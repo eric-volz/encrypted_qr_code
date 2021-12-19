@@ -1,5 +1,5 @@
 from QR_Code import QR_Code
-from AESCipher import AESCipher
+from AES_Crypto import AESCipher
 
 if "__main__" == __name__:
     print("Möchtest du deinen Text in einem QR-Code Verschlüsseln oder möchtest diesen entschlüsseln?")
